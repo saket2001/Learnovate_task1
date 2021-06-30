@@ -1,0 +1,9 @@
+Font used - open sans,Ananda Hastakchyar
+icons- font awesome 5
+
+green color-#12a84e
+white color-#ffffff
+black color-#000000
+
+opening hours bg-#12a84e
+footer background-image: linear-gradient(-90deg, #000000 0%, #171717 50%, #000000 100%);
